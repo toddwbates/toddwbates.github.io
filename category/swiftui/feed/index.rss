@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/wordpress/category/swiftui/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost:8888/wordpress</link>
 	<description>Always Curious</description>
-	<lastBuildDate>Mon, 13 Apr 2020 12:35:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Apr 2020 13:51:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4</generator>
 	<item>
+		<title>SwiftUI and enums</title>
+		<link>http://localhost:8888/wordpress/2020/04/13/swiftui-and-enums/</link>
+		
+		<dc:creator><![CDATA[toddwbates]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2020 13:51:22 +0000</pubDate>
+				<category><![CDATA[SwiftUI]]></category>
+		<guid isPermaLink="false">http://localhost:8888/wordpress/?p=14</guid>
+
+					<description><![CDATA[You can&#8217;t use switch statements directly with swiftUI.]]></description>
+										<content:encoded><![CDATA[
+<p>You can&#8217;t use switch statements directly with swiftUI.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Building a custom layout for SwiftUI</title>
 		<link>http://localhost:8888/wordpress/2020/04/13/building-a-custom-layout-for-swiftui/</link>
 					<comments>http://localhost:8888/wordpress/2020/04/13/building-a-custom-layout-for-swiftui/#respond</comments>
