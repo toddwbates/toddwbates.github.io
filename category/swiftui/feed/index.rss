@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SwiftUI &#8211; Todd Bates</title>
+	<atom:link href="http://localhost/wordpress/category/swiftui/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/wordpress</link>
+	<description>Always Curious</description>
+	<lastBuildDate>Mon, 13 Apr 2020 12:35:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Building a custom layout for SwiftUI</title>
+		<link>http://localhost:8888/wordpress/2020/04/13/building-a-custom-layout-for-swiftui/</link>
+					<comments>http://localhost:8888/wordpress/2020/04/13/building-a-custom-layout-for-swiftui/#respond</comments>
+		
+		<dc:creator><![CDATA[toddwbates]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2020 12:35:49 +0000</pubDate>
+				<category><![CDATA[SwiftUI]]></category>
+		<guid isPermaLink="false">http://localhost:8888/wordpress/?p=6</guid>
+
+					<description><![CDATA[SwiftUI]]></description>
+										<content:encoded><![CDATA[
+<p>SwiftUI</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost:8888/wordpress/2020/04/13/building-a-custom-layout-for-swiftui/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
